@@ -20,4 +20,4 @@ This Tutorial Covers the following topics
 - Class 
 - Exception Handling
 
-*I was using Dart v2.16.0 (Null safety by default) while following this tutorial nd therefore my code varies from that of the original video*
+*I was using Dart v2.16.0 (Null safety by default) while following this tutorial and therefore my code varies from that of the original video*
