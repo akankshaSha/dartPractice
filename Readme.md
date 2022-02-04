@@ -1,8 +1,9 @@
 # Dart Programming Tutorial - Full Course
 ## by freeCodeCamp
 
->documentation for a short 2 hour long dart programmming tutorial posted by the YouTube Channel of freeCodeCamp. This course was conducted by Mohmud Ahsan
-[Mahmud Ahsan](https://github.com/mahmudahsan/)
+>documentation for a short 2 hour long dart programmming tutorial posted by the YouTube Channel of freeCodeCamp. This course was conducted by Mohmud Ahsan  
+
+[Mahmud Ahsan](https://github.com/mahmudahsan/)  
 [Dart Language](https://dart.dev/)
 
 **Here's the link to the video**
